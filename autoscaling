@@ -1,0 +1,5 @@
+what is autoscaling?
+Ans:- Autoscaling is a cloud computing and infrastructure management technique that can be used in aws to add the instances
+according to the cpu utilization. and autoscaling are of two types and they are:
+1.Horizontal scaling:-
+in horizontal scaling the instaces will automatically created while load is increased
