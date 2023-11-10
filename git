@@ -1,0 +1,24 @@
+what is git?
+ans:-  Git is an version control system it can use to get the source code and also it is an distributed control system where we can keep multiple copies of same file with multiple people using
+fork option 
+what is different between svn and git?
+ans:- The basic difference between git and svn is
+git is an distribtuted control system
+svn is an centralised control system
+let's take the scenario if two developers are working on the caluculator operations and one developer is working on addition one is an substration and they both send their code to centralised control
+system called svn from there both developers can communicate and if incase the centralised control system got crashed then there is no communication between to developers and also data has not
+been saved anywhere 
+
+the same scenario in git the same two developers are on the calulator operation and both developers send their code to distrubuted control system called github and they are forking it and they saved
+it and they are communicate each other if incase the control system got crashed but no problem they already have the another copy of the file
+
+git command and their uses:-
+
+life cycle of git:
+git init : it will intialize the empty git repository
+git add : it will move our local files to staging area
+git commit : it will use to commits the files 
+git diff : it is used to difference between previous and present version
+git status : it is used to see the status of the working directory
+git log : it is used to see the commits and logs of the files
+git reset --hard commit id of the version : it is used to jump into the specific version 
